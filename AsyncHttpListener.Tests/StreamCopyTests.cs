@@ -17,25 +17,23 @@ namespace AsyncHttpListener.Tests
         [Test]
         public void CopyStreamAsync_should_write_to_destinaion_stream_correctly()
         {
-            var source = new MemoryStream(new byte[83642]);
-            var fileStream = File.OpenRead(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), "83642bytes.txt"));
-            fileStream.CopyTo(source);
-            var destination = new MemoryStream(new byte[83642]);
-            source.Position = 0;
-
-
             int numThreads = 5;
             
             ConcurrentBag<CopyInfo> results = new ConcurrentBag<CopyInfo>();
 
             for (var i = 0; i < numThreads; i++)
             {
-                
                 ThreadPool.QueueUserWorkItem((s) =>
                 {
+                    var source = new MemoryStream(new byte[83642]);
+                    var fileStream = File.OpenRead(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), "83642bytes.txt"));
+                    fileStream.CopyTo(source);
+                    source.Position = 0;
+
+                    var destination = new MemoryStream(new byte[83642]);
                     CopyInfo info = new CopyInfo();
                     ManualResetEventSlim ev = new ManualResetEventSlim();
-                    source.CopyToSync(destination, args =>
+                    source.CopyToAsync(destination, args =>
                     {
                         info.Exception = args.Exception;
 
