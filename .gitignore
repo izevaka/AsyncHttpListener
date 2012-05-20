@@ -1,6 +1,33 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
+## .gitignore for .NET projects
+# Standard VS.NET and ReSharper Foo
 obj
+Obj
+bin
+Bin
+ClientBin
+*.csproj.user
+*ReSharper*
+*resharper*
+*.suo
+*.cache
+* Thumbs.db
 
-# mstest test results
-TestResults
+# Other useful stuff
+*.bak
+*.log*
+*.swp
+*.user
+*.sln.docstates
+_compareTemp
+_notes
+aspnet_client
+
+# If you have a deploy folder
+deploy
+deploy/*
+
+# osx noise
+.DS_Store
+profile
+
+*.orig

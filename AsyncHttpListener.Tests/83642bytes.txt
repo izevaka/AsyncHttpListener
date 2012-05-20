@@ -1,0 +1,3244 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:cc="http://www.componentcloud.com/builder">
+
+<head>	
+
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	
+
+        <meta name="Keywords" content="news mylaunchpad, mylaunchpad, news, local news, world news, business news, technology news, sports news, entertainment news " />
+
+        <meta name="Description" content="Latest and hottest news from local, world, business, technology, sports, entertainment news." />
+
+    
+
+	<link rel="stylesheet" href="/css/basicByldr.css" type="text/css" media="screen" />
+
+	<link rel="stylesheet" href="/css/Style.css" type="text/css" media="screen" />
+
+	<link rel="stylesheet" href="/css/IEstyle.css" type="text/css" media="screen" />
+
+	<link href="/css/basicByldr.css" rel="stylesheet" type="text/css" />	
+
+	<script language="javascript" type="text/javascript" src="/Scripts/jquery.js"></script>
+
+	<script type="text/javascript" src="/Scripts/editortab.js"></script>
+
+	<script type="text/javascript" src="/Scripts/lifestyle.js"></script>
+
+	<script type="text/javascript" src="/Scripts/EditorCorner.js"></script>
+
+	<script language="javascript" type="text/javascript" src="/Scripts/carousel.js"></script>
+
+	<script language="javascript" type="text/javascript" src="/Scripts/interface.js"></script>
+
+	<script language="javascript" type="text/javascript" src="/Scripts/jquery-1.5.1.min.js"></script>
+
+	<script type="text/javascript" src="/Scripts/dropdowncontent.js">
+
+
+
+	    /***********************************************
+
+	    * Drop Down/ Overlapping Content-  Dynamic Drive (www.dynamicdrive.com)
+
+	    * This notice must stay intact for legal use.
+
+	    * Visit http://www.dynamicdrive.com/ for full source code
+
+	    ***********************************************/
+
+
+
+	</script>
+
+	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+
+	<script type="text/javascript">
+
+	    GS_googleAddAdSenseService("ca-pub-2575385892158882");
+
+	    GS_googleEnableAllServices();
+
+	</script>
+
+	<script type="text/javascript">
+
+	    var _gads_rect = "";
+
+	    var _gads_super = "";
+
+	</script>
+
+    
+
+        <title>
+
+MYLAUNCHPAD NEWS
+
+        </title>
+
+        <script type="text/javascript" xml:space="preserve">
+
+            _gads_rect = "maxis_news_mainpage_-rectangle";
+
+            _gads_super = "maxis_news_mainpage_-superbanner";
+
+        </script>
+
+    
+
+	<script type="text/javascript">
+
+	    GA_googleAddSlot("ca-pub-2575385892158882", _gads_rect);
+
+	    GA_googleAddSlot("ca-pub-2575385892158882", _gads_super);
+
+	    GA_googleFetchAds();	
+
+	</script>
+
+	<!-- News_GoogleAnalytics_Outlinks_Tracker_Start added 7Jan2011-->
+
+        <script type="text/javascript">
+
+            jQuery(document).ready(function () {
+
+                jQuery("a[rel^='externalnews']").click(function () {
+
+                    var group = jQuery(this).attr('rel').replace('externalnews ', '');
+
+                    var link = '/' + group + '/' + jQuery(this).attr('href').replace('http://', '');
+
+                    pageTrackerExternalNews._trackPageview(link);
+
+                });
+
+            });
+
+            function trackThis(trackLink) {
+
+                var group = jQuery(trackLink).attr('rel').replace('externalnews ', '');
+
+                var link = '/' + group + '/' + jQuery(trackLink).attr('href').replace('http://', '');
+
+                pageTrackerExternalNews._trackPageview(link);
+
+            }    	
+
+        </script>
+
+	<script type="text/javascript">
+
+	    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+	    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+	</script>
+
+	<script type="text/javascript">
+
+	    try {
+
+		var pageTrackerExternalNews = _gat._getTracker("UA-17328076-28");
+
+	    } catch (err) { }
+
+	</script>
+
+	<!-- News_GoogleAnalytics_Outlinks_Tracker_End -->
+
+	
+
+	<!-- News_GoogleAnalytics_Outlinks_Tracker_Start added 6April2011 'Track nominees listing' -->
+
+	<script type="text/javascript" xml:space="preserve"> 
+
+	  jQuery(document).ready(function(){
+
+		jQuery(".GAEventTrack").click(function(){
+
+			//alert('Handler for .click() called.');
+
+			var event = jQuery(this);
+
+			var eventCategory = event.attr("eventCategory");
+
+			var eventAction = event.attr("eventAction");
+
+			var eventLabel = event.attr("eventLabel");
+
+			var eventTriggerPageviews = event.attr("eventTriggerPageviews");
+
+			if(eventLabel == null){
+
+				var destination = jQuery(this).attr("href");} 
+
+			else{
+
+				var destination = eventLabel;
+
+			}
+
+			//var sarawakElectionURL = '/news.mylaunchpad.com.my/local/politic/sarawak-election-2011/';
+
+			pageTracker._trackEvent(eventCategory, eventAction, destination);	
+
+			//alert('eventCategory=' + eventCategory + ' eventAction=' + eventAction + ' eventLabel=' + destination);
+
+			if (eventTriggerPageviews == "on"){
+
+				//pageTracker._trackPageview(sarawakElectionURL);	
+
+				//alert('sarawakElectionURL=' + sarawakElectionURL + 'eventTriggerPageviews=' + eventTriggerPageviews);					
+
+			}
+
+		});
+
+	  });
+
+	</script>
+
+	<!-- News_GoogleAnalytics_Outlinks_Tracker_End -->
+
+
+
+<link rel="stylesheet" href="/mlp_header_style.css" type="text/css" media="screen" xmlns="" /><script type="text/javascript" src="/js/dropdowncontent.js" xmlns=""></script><script type="text/javascript" src="http://www.google.com/jsapi" xmlns=""></script><script type="text/javascript" src="http://widget.byldr.com/Search/Gcs.js" xmlns=""></script><link href="/css/Style.css" rel="stylesheet" type="text/css" xmlns="" /><link href="/Css/basicByldr.css" rel="stylesheet" type="text/css" xmlns="" /><style type="text/css" xmlns="">
+
+		ul.SarawakNews {
+
+			margin: 0px;
+
+			padding: 0px;
+
+			margin-left: 23px;
+
+			margin-bottom: 15px;			
+
+		}
+
+		
+
+		ul.SarawakNews li {
+
+			margin-bottom: 10px;
+
+		}
+
+	</style><link href="/css/Style.css" rel="stylesheet" type="text/css" xmlns="" /><style xmlns="">
+
+	ul.MothersDay {
+
+		margin: 0px;
+
+		padding: 0px;
+
+		margin-left: 20px;
+
+		margin-bottom: 0px;			
+
+	}
+
+
+
+	ul.MothersDay li {
+
+		margin-bottom: 5px;
+
+	}
+
+    </style><link href="/Css/basicByldr.css" rel="stylesheet" type="text/css" xmlns="" /><link href="/Css/Style.css" rel="stylesheet" type="text/css" xmlns="" /><script language="javascript" type="text/javascript" src="/Scripts/jquery.js" xmlns=""></script><script type="text/javascript" src="/Scripts/ddaccordion.js" xmlns=""></script><script type="text/javascript" src="/Scripts/FinanceSidebar.js" xmlns=""></script><script type="text/javascript" xmlns="">
+
+
+
+        ddaccordion.init({
+
+            headerclass: "silverheader", //Shared CSS class name of headers group
+
+            contentclass: "submenu", //Shared CSS class name of contents group
+
+            revealtype: "mouseover", //Reveal content when user clicks or onmouseover the header? Valid value: "click", "clickgo", or "mouseover"
+
+            mouseoverdelay: 200, //if revealtype="mouseover", set delay in milliseconds before header expands onMouseover
+
+            collapseprev: true, //Collapse previous content (so only one open at any time)? true/false
+
+            defaultexpanded: [0], //index of content(s) open by default [index1, index2, etc] [] denotes no content
+
+            onemustopen: true, //Specify whether at least one header should be open always (so never all headers closed)
+
+            animatedefault: false, //Should contents open by default be animated into view?
+
+            persiststate: true, //persist state of opened contents within browser session?
+
+            toggleclass: ["", "selected"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+
+            togglehtml: ["", "", ""], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+
+            animatespeed: "fast", //speed of animation: integer in milliseconds (ie: 200), or keywords "fast", "normal", or "slow"
+
+            oninit: function (headers, expandedindices) { //custom code to run when headers have initalized
+
+                //do nothing
+
+            },
+
+            onopenclose: function (header, index, state, isuseractivated) { //custom code to run whenever a header is opened or closed
+
+                //do nothing
+
+            }
+
+        });
+
+        
+
+    </script><script type="text/javascript" src="/Scripts/Utils.js" xmlns="" /><!--AmorphousPageCache Lifetime set to 60 by Default--><!--AmorphousPageCache Sliding set False by Default--><!--AmorphousPageCache Now         : 2011.07.13@07:35:02.416--><!--AmorphousPageCache FreshTime   : 2011.07.13@07:33:57.987--><!--AmorphousPageCache Lifetime    : 00:01:00--><!--AmorphousPageCache Sliding?    : False--><!--AmorphousPageCache Stale@      : 2011.07.13@07:34:57.987--><!--AmorphousPageCache FullKey     : !!http://news.performance.byldr.com/renderitemasync.ashx?item_id=151733&alias=2677&path=/--><!--AmorphousPageCache querystring : *--></head>
+
+<body>   
+
+    	<!-- News_GoogleAnalytics_Site_Tracker_Start added 7Jan2011-->
+
+    	    <script type="text/javascript" xmlns="" xml:space="preserve"> 
+
+    		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+    		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+    	    </script>
+
+    	    <!-- site tracker -->
+
+    	    <script type="text/javascript" xmlns="" xml:space="preserve"> 
+
+    		try {
+
+    		    var pageTracker = _gat._getTracker("UA-17328076-10");
+
+    		    pageTracker._trackPageview();
+
+    		} catch (err) { }
+
+    	    </script>
+
+    	    <!-- rollup tracker -->
+
+    	    <script type="text/javascript" xmlns="" xml:space="preserve"> 
+
+    		try {
+
+    		    var rollupTracker = _gat._getTracker("UA-17328076-13");
+
+    		    rollupTracker._trackPageview();
+
+    		} catch (err) { }
+
+    	    </script>
+
+    	    <!-- global cross-domain tracker -->
+
+    	    <script type="text/javascript" xml:space="preserve">
+
+    		//MLP_control.js include 
+
+    		var controlJShost = (("https:" == document.location.protocol) ? "http://tracker.digitalfive.com" : "http://tracker.digitalfive.com");
+
+    		document.write(unescape("%3Cscript src='" + controlJShost + "/MLP_control.js' type='text/javascript'%3E%3C/script%3E")); 
+
+    	    </script>
+
+    	    <script type="text/javascript" xml:space="preserve"> 
+
+    		utmCrossTrk("", false, "");
+
+    	    </script>
+
+    	<!-- News_GoogleAnalytics_Site_Tracker_End !-->
+
+  	
+
+<div style="background-color:#fff;" xmlns="">
+
+<div id="mlp_mainstrip">
+
+<div id="mlp_header_top">
+
+<div id="mlp_header_top_left"><div class="mlp_header_top_left_tiny_logos">
+
+    <div class="mlp_header_top_left_tiny_logo_maxis_div"><a href="#" id="searchlink6" rel="top_logo"><img src="/images/mlp/top-maxis-logo.gif" width="42" height="16" border="0" /></a></div>
+
+<div id="top_logo" style="position:absolute; visibility: hidden; width: 960px; font-size:11px; float:left; z-index:1000;">
+
+<table width="960" height="48" cellspacing="0" cellpadding="0" background="/images/mlp/drop_more_green_for_logo.png" class="mlp_login">
+
+  <tr>
+
+    <td valign="top">
+
+        <table width="97%" align="center" cellpadding="2" cellspacing="0">
+
+        <tr>
+
+            <td colspan="8"><br /></td>
+
+        </tr>
+
+        <tr align="left">
+
+            <td align="left"><a class="mlp_more_nav" href="http://www.maxis.com.my/personal/index.asp" rel="external MlpStrip" target="_blank">Mobile &amp; Plans</a></td>
+
+            <td align="left"><a class="mlp_more_nav" href="http://www.maxis.com.my/personal/broadband/index.asp" rel="external MlpStrip" target="_blank">Broadband</a></td>
+
+            <td align="left"><a class="mlp_more_nav" href="http://www.maxis.com.my/business/index.asp" rel="external MlpStrip" target="_blank">Maxis for Business</a></td>
+
+            <td align="left"><a class="mlp_more_nav" href="http://www.maxis.com.my/moc_new2/index.asp?r=1" rel="external MlpStrip" target="_blank">Maxis Rewards</a></td>
+
+            <td align="left"><a class="mlp_more_nav" href="http://store.maxis.com.my/" rel="external MlpStrip" target="_blank">Download</a></td>
+
+            <td align="left"><a class="mlp_more_nav" href="http://www.maxis.com.my/personal/online_account_main.asp" rel="external MlpStrip" target="_blank">Customer Service</a></td>
+
+            <td align="left"><a class="mlp_more_nav" href="http://www.hotlink.com.my/web/portal/hotlink/index" rel="external MlpStrip" target="_blank">Hotlink</a></td>
+
+            <td><a class="mlp_more_nav" href="http://www.maxis.com.my" rel="external MlpStrip" target="_blank">More from Maxis</a></td>
+
+        </tr>
+
+        </table>
+
+    </td>
+
+  </tr>
+
+</table>
+
+</div>
+
+<script type="text/javascript">
+
+    dropdowncontent.init("searchlink6", "right-bottom", 500, "mouseover")
+
+    dropdowncontent.init("contentlink", "left-top", 300, "click")
+
+</script>
+
+<script type="text/javascript">
+
+    dropdowncontent.init("searchlink7", "right-bottom", 500, "mouseover")
+
+    dropdowncontent.init("contentlink", "left-top", 300, "click")
+
+</script>
+
+<div class="mlp_header_top_left_sign_in_div"><a href="#" id="searchlink7" rel="sign_in">SIGN IN</a></div>
+
+
+
+<div id="sign_in" style="position:absolute; visibility:hidden; width: 925px; font-size:11px; float:left; background-color:#304678; z-index:1000;"><table width="925" height="35" cellspacing="0" cellpadding="0">
+
+  <tr>
+
+    <td valign="middle">
+
+    <table width="97%" align="center" cellpadding="2" cellspacing="1" style="color:#FFF;">
+
+    <form style="padding:0px; margin:0px" name="loginfrm" method="post" action="https://myaccount.maxis.net.my/wbb/Default.aspx?sect=dologin" target="_blank">
+
+      <tr align="left">
+
+        <td width="147" align="left" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#FFF;"><strong>My Account</strong></td>
+
+        <td width="65" align="left" class="mlp_more_nav">Username</td>
+
+        <td width="125" align="left"><input name="txtUsername" type="text" id="txtUsername" value="USERNAME" onFocus="focusUsername();" onBlur="blurUsername();" style="width:110px; height:15px; font:Arial, Helvetica, sans-serif; font-size:10px; color:#666; margin-bottom:5px;" /></td>
+
+        <td width="58" align="left" class="mlp_more_nav">Password</td>
+
+        <td width="137" align="left"><a class="mlp_more_nav" href="#">
+
+          <input name="txtPassword" type="password" id="txtPassword" value="PASSWORD" onFocus="focusPassword();" onBlur="blurPassword();" style="width:110px; height:15px; font:Arial, Helvetica, sans-serif; font-size:10px; color:#666; margin-bottom:5px;" />
+
+          </a></td>
+
+        <td width="86" align="right" class="mlp_more_nav"><input class="mlp_more_nav" type="image" src="/images/mlp/bt_sign_inX.jpg" alt="SIGN IN" value="Sign In" border="0" /></td>
+
+        <td width="239" align="left" class="mlp_more_nav"> | <a href="https://myaccount.maxis.net.my/wbb/Default.aspx?sect=forget" class="mlp_more_nav" style="color:#FFF;" target="_blank">Forgot your password?</a> Or <a href="https://myaccount.maxis.net.my/wbb/Default.aspx?sect=firsttime" style="color:#FFF;" class="mlp_more_nav" target="_blank">Create Account</a></td>
+
+      </tr>
+
+      </form>
+
+    </table>
+
+    </td>
+
+  </tr>
+
+</table>
+
+
+
+</div>
+
+
+
+
+
+<script type="text/javascript">
+
+    dropdowncontent.init("searchlink7", "right-bottom", 500, "mouseover")
+
+    dropdowncontent.init("contentlink", "left-top", 300, "click")
+
+</script>
+
+<div class="mlp_header_top_left_tiny_logo_div"><a href="http://www.twitter.com/maxisbroadband" target="_blank" rel="external MlpStrip"><img src="/images/mlp/twitter.gif" width="16" height="16" border="0" /></a></div>
+
+<div class="mlp_header_top_left_tiny_logo_div"><a href="http://www.facebook.com/maxis" target="_blank" rel="external MlpStrip"><img src="/images/mlp/facebook.gif" width="16" height="16" border="0" /></a></div>
+
+<div class="mlp_header_top_left_tiny_logo_div"><a href="http://www.finder301.com/" target="_blank" rel="external MlpStrip"><img src="/images/mlp/Finder301.gif" width="16" height="16" border="0" /></a></div>
+
+<div class="mlp_header_top_left_sharethis_div"><a name="nameref" id="myref" lang="en" href="http://m.maxisconnect.com/sharethis/sharethisweb.aspx">Share! </a><script src="http://m.maxisconnect.com/sharethis/JScript.js"></script></div>
+
+<div class="mlp_header_top_left_tiny_logo_textfield_div">
+
+    <form action="http://www.mylaunchpad.com.my/search.aspx" id="cse-search-box" name="SearchBox" target="_blank">
+
+		<div>    
+
+		<input type="hidden" name="cx" value="partner-pub-3357185962822730:vy1pxzn6448" />
+
+		<input type="hidden" name="cof" value="FORID:11" />
+
+		<input type="hidden" name="ie" value="ISO-8859-1" />
+
+		<input type="text" name="q" size="20" class="mlp_searchText" />
+
+		<input type="submit" name="sa" value="Search" class="mlp_searchButton" />
+
+		</div>
+
+		</form>
+
+		<script type="text/javascript" src="http://www.google.com.my/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+
+
+    </div></div></div>
+
+<div id="mlp_header_top_right">
+
+    <a href="http://www.mylaunchpad.com.my" class="mlp_top_right_links" rel="external MlpStrip" target="_blank">MYLAUNCHPAD</a> |
+
+    <a href="http://news.mylaunchpad.com.my" class="mlp_top_right_links" rel="external MlpStrip" target="_blank">NEWS</a> |
+
+    <a href="http://sports.mylaunchpad.com.my" class="mlp_top_right_links" rel="external MlpStrip" target="_blank">SPORTS</a> |
+
+    <a href="http://www.murai.com.my" class="mlp_top_right_links" rel="external MlpStrip" target="_blank">ENTERTAINMENT</a> |
+
+    <a href="#" class="mlp_top_right_links" id="searchlink5" rel="top_more">More  <img src="/images/mlp/more_arrow.gif" width="7" height="7" border="0" /></a></div>
+
+</div>
+
+<div id="top_more" style="position:absolute; visibility: hidden; width: auto; font-size:11px; z-index:1000;">
+
+<table width="960" height="80" cellspacing="0" cellpadding="0" background="/images/mlp/drop_more_green.png" class="mlp_more_nav">
+
+  <tr>
+
+    <td valign="top"><table width="100%" cellspacing="3" cellpadding="2">
+
+        <tr>
+
+		<td colspan="6"><img src="/images/mlp/spacer.gif" width="1" height="4" border="0" /></td>
+
+        </tr>
+
+        <tr>
+
+            <td><a class="mlp_more_nav" href="http://news.mylaunchpad.com.my" rel="external MlpMoreStrip" target="_blank">News</a></td>
+
+            <td><a class="mlp_more_nav" href="http://news.mylaunchpad.com.my/Business/Finance" rel="external MlpMoreStrip" target="_blank">Finance</a></td>
+
+            <td><a class="mlp_more_nav" href="http://sports.mylaunchpad.com.my" rel="external MlpMoreStrip" target="_blank">Sports</a></td>
+
+            <td><a class="mlp_more_nav" href="http://www.murai.com.my/gosip/" rel="external MlpMoreStrip" target="_blank">Malaysian Gossip</a></td>
+
+            <td><a class="mlp_more_nav" href="http://astrology.mylaunchpad.com.my" rel="external MlpMoreStrip" target="_blank">Horoscope</a></td>
+
+            <td><a class="mlp_more_nav" href="http://www.finder301.com/" rel="external MlpMoreStrip" target="_blank">Finder301</a></td>
+
+        </tr>
+
+        <tr>
+
+            <td><a class="mlp_more_nav" href="http://news.mylaunchpad.com.my/Business" rel="external MlpMoreStrip" target="_blank">Business</a></td>
+
+            <td><a class="mlp_more_nav" href="http://news.mylaunchpad.com.my/Technology" rel="external MlpMoreStrip" target="_blank">Technology</a></td>
+
+            <td><a class="mlp_more_nav" href="http://murai.com.my" rel="external MlpMoreStrip" target="_blank">Entertainment</a></td>
+
+            <td><a class="mlp_more_nav" href="http://www.murai.com.my/stailista/" rel="external MlpMoreStrip" target="_blank">Stailista</a></td>
+
+            <td><a class="mlp_more_nav" href="http://education.mylaunchpad.com.my" rel="external MlpMoreStrip" target="_blank">Education</a></td>
+
+            <td><a class="mlp_more_nav" href="http://www.musicunlimited.com.my/maxisweb/" rel="external MlpMoreStrip" target="_blank">Music</a></td>
+
+        </tr>
+
+        <tr>
+
+            <td><a class="mlp_more_nav" href="http://www.murai.com.my/wayang/" rel="external MlpMoreStrip" target="_blank">Movies</a></td>
+
+            <td><a class="mlp_more_nav" href="http://www.mplanet.com.my/" rel="external MlpMoreStrip" target="_blank">Games</a></td>
+
+        </tr>
+
+    </table></td>
+
+  </tr>
+
+</table>
+
+</div></div></div>
+
+
+
+<script type="text/javascript" xmlns="">
+
+    dropdowncontent.init("searchlink5", "left-bottom", 500, "mouseover")
+
+    dropdowncontent.init("contentlink", "left-top", 300, "click")
+
+</script>
+
+
+
+<script type="text/javascript" xmlns="">
+
+    function focusUsername() {
+
+        if (document.loginfrm.txtUsername.value == "USERNAME") {
+
+            document.loginfrm.txtUsername.value = "";
+
+        }
+
+    }
+
+    function blurUsername() {
+
+        if (document.loginfrm.txtUsername.value == "") {
+
+            document.loginfrm.txtUsername.value = "USERNAME";
+
+        }
+
+    }
+
+    function focusPassword() {
+
+        if (document.loginfrm.txtPassword.value == "PASSWORD") {
+
+            document.loginfrm.txtPassword.value = "";
+
+        }
+
+    }
+
+    function blurPassword() {
+
+        if (document.loginfrm.txtPassword.value == "") {
+
+            document.loginfrm.txtPassword.value = "PASSWORD";
+
+        }
+
+    }
+
+    function clearForm() {
+
+        document.loginfrm.txtUsername.value = "USERNAME";
+
+        document.loginfrm.txtPassword.value = "PASSWORD";
+
+    }
+
+</script>      
+
+
+
+
+
+	<div id="BodyContainer">
+
+		<div id="HeaderContainer">
+
+			<!-- Place header option html/snippet here -->	
+
+			<!-- START HEADER -->
+
+			<div class="header01">
+
+				<div class="masthead" style="z-index:101">   	
+
+					<!-- Module: Page Title -->
+
+					<a href="/"><img src="/images/news-logo.png" alt="" border="0" style="margin:5px 0 0 5px;" /></a>
+
+                    
+
+    <div class="header_date">13-July-2011, 3:33 PM</div>
+
+  
+
+					<!--<h1 style="font-size:75px; letter-spacing:-0.1em;">Logo</h1>//-->
+
+					<div class="homepromo">
+
+						<!-- Adspot: LEADERBOARD 728x90 -->
+
+						<div class="leaderboard" style="position:relative;z-index:1000;">
+
+						<script type="text/javascript">						    GA_googleFillSlot(_gads_super);</script>	
+
+						</div>						
+
+					</div>
+
+				</div>
+
+				
+
+				
+
+						
+
+				<div class="navheader">
+
+					 <ul class="nav">  <li><a class="selected" href="/">Home</a>  </li>  <li><a href="/Local">Local</a>  </li>  <li><a href="/World">World</a>  </li>  <li><a href="/Business">Business</a>  </li>  <li><a href="/Technology">Technology</a>  </li>  <li><a href="/Sports">Sports</a>  </li>  <li><a href="/Entertainment">Entertainment</a>  </li>  <li><a href="/Lifestyle">Lifestyle</a>  </li>  </ul> 
+
+<div class="sR">
+
+                <!-- Module: SEARCH -->
+
+                <div class="searchBox clear">
+
+					
+
+	<script type="text/javascript" xmlns="">		
+
+		RenderGoogleSearchBox("67");
+
+	</script>
+
+  
+
+                </div>
+
+              </div>
+
+				</div>
+
+				
+
+              
+
+			</div>
+
+			<!-- END HEADER -->
+
+			
+
+    
+
+		</div>
+
+		<div id="ContentContainer">
+
+			
+
+            <div id="MainHubContainer">
+
+				
+
+
+
+<!-- omniture_stats_start for news.mylaunchpad.com.my !--> 
+
+<!-- SiteCatalyst code version: H.22.1.
+
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+
+More info available at http://www.omniture.com -->
+
+<script language="JavaScript" type="text/javascript" src="http://news.mylaunchpad.com.my/s_code.js"></script>
+
+<script language="JavaScript" type="text/javascript"><!--
+
+    /* You may give each page an identifying name, server, and channel on the next lines. */
+
+    s.pageName = "news:mainpage"
+
+    s.server = "news"
+
+    s.channel = "mainpage"
+
+    s.pageType = ""
+
+    s.prop1 = "news"
+
+    s.prop2 = "news:mainpage"
+
+    s.prop3 = "news:mainpage"
+
+    s.prop4 = "news:mainpage"
+
+    s.prop5 = ""
+
+    s.prop6 = ""
+
+    s.prop7 = ""
+
+    /* Conversion Variables */
+
+    s.campaign = ""
+
+    s.state = ""
+
+    s.zip = ""
+
+    s.events = ""
+
+    s.products = ""
+
+    s.purchaseID = ""
+
+    s.eVar1 = ""
+
+    s.eVar2 = ""
+
+    s.eVar3 = ""
+
+    s.eVar4 = ""
+
+    s.eVar5 = ""
+
+    /* Hierarchy Variables */
+
+    s.hier1 = "news|mainpage"
+
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+
+<script language="JavaScript" type="text/javascript"><!--
+
+    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+
+//--></script><noscript><img src="http://mit.112.2o7.net/b/ss/mitnewsprod/1/H.22.1--NS/0" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+
+<!-- End SiteCatalyst code version: H.22.1. -->
+
+
+
+    <!-- Start Main Highlight -->
+
+    
+
+	
+
+    <div class="moduleMainHighlight 01" xmlns="">
+
+      <div class="mainHighlight01">
+
+        <div class="bigPix" for="Item" qualifier="1">
+
+			<a href="/Home/Article?Key=c80f83da-eed5-42d2-93ed-dd06f5b68fc9"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=44a60f7e-55a4-43a9-930d-2689b65bc532&amp;Store=IngestFeeds&amp;env=Perf" /></a>
+
+			<h1>
+
+  <a href="/Home/Article?Key=c80f83da-eed5-42d2-93ed-dd06f5b68fc9">US tells Syria's Assad to lead transition or leave</a>
+
+</h1>
+
+            <div class="Timestamp">
+
+                afp.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T17:52:37", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+            </div>
+
+			<p>The United States told Syria's President Bashar al-Assad to lead a transition in his country or step down.</p>
+
+		</div>
+
+        <div class="newsFeature01" for="Item">
+
+			<div class="abstract01Large">
+
+				<h3><a href="/Home/Article?Key=90d79bf6-f9cb-4360-9893-520b662c56e0">AirAsia signs US$600 over mln contract</a></h3>
+
+                <div class="Timestamp">
+
+                    BERNAMA - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T17:44:58", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                </div>
+
+				<p> AirAsia X today signed a contract, worth more than US$600 million, to purchase six engines from GE Aviation. </p>        
+
+			</div>   
+
+		
+
+			<div class="abstract01Large">
+
+				<h3><a href="/Home/Article?Key=bfc9cff1-fa07-4d0e-9f53-09b059f8c6db">Hotel maid to testify, IMF chief pressured to quit</a></h3>
+
+                <div class="Timestamp">
+
+                    reuters.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T16:07:05", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                </div>
+
+				<p> A hotel maid who says IMF chief Dominique Strauss-Kahn tried to rape her was due to testify before a jury on Wednesday.</p>        
+
+			</div>   
+
+		
+
+			<div class="abstract01Large">
+
+				<h3><a href="/Home/Article?Key=31c1b688-c1be-4c4e-adf1-dd1c6d895542">Bollywood marketing goes mobile</a></h3>
+
+                <div class="Timestamp">
+
+                    afp.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T06:43:56", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                </div>
+
+				<p> Times have changed in Bollywood from the days when all that was required to promote a film was a giant, hand-painted poster, a ...</p>        
+
+			</div>   
+
+		
+
+			<div class="abstract01Large">
+
+				<h3><a href="/Home/Article?Key=edf65fdc-2628-41e6-ac57-bb4e8029a8fb">Najib outlines reasons why Malaysia is right place to invest</a></h3>
+
+                <div class="Timestamp">
+
+                    BERNAMA - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-17T18:18:13", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                </div>
+
+				<p> PM today outlined 10 reasons why Malaysia is the right place to invest, saying that our economy is heading upwards.</p>        
+
+			</div>   
+
+		</div>
+
+      </div>
+
+    </div>
+
+    <div class="moduleSubHighlight 03" xmlns="">
+
+      <div class="subHighlight03" for="Item" qualifier="1"></div>
+
+      <div class="subHighlight03 right" for="Item"></div>
+
+    </div>
+
+  
+
+  
+
+    <!-- End Main Highlight -->
+
+
+
+    
+
+	<div id="a1" style="display:block; float:left;" xmlns="">
+
+	<div class="ModuleHeaderTxt" style="width: 99%"><a href="/Home/EditorsCorner" style="color: Black">Editors Corner   </a><span style="font-size:10px; float:right;"><a href="javascript:switchid('a1');"> English | </a><a href="javascript:switchid('a2');">Malay</a></span></div>
+
+	    <table width="630" border="0" cellspacing="1" cellpadding="1" style="margin:0 auto;">
+
+	      <tr>
+
+			
+
+		
+
+		    <td height="120">
+
+		    
+
+			<div class="sub_container">
+
+			    <div class="sub_editors_image">
+
+				<a href="/Home/EditorsCorner/Article?Key=89fd83d8-1fc0-4921-8b42-3116199451ba">
+
+				    <img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=341a484f-c68e-41ad-9930-c7ecc4ab85ac&amp;Store=IngestFeeds&amp;resizew=156&amp;resizeh=120&amp;resizebg=CCCCCC&amp;env=Perf" width="156" height="120" />
+
+				</a>
+
+			    </div>
+
+			    <div class="sub_editors_category_title_generic editor_corner" style="display: none;">Blog|Tasnim, Lead Stories|Editor Corner, Title|Travel</div>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td height="120">
+
+		    
+
+			<div class="sub_container">
+
+			    <div class="sub_editors_image">
+
+				<a href="/Home/EditorsCorner/Article?Key=e20e25c3-9eb2-4811-b033-a556906121f3">
+
+				    <img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=4ec5b9d5-8c5f-49b6-82a1-48337694d50f&amp;Store=IngestFeeds&amp;resizew=156&amp;resizeh=120&amp;resizebg=CCCCCC&amp;env=Perf" width="156" height="120" />
+
+				</a>
+
+			    </div>
+
+			    <div class="sub_editors_category_title_generic editor_corner" style="display: none;">Lead Stories|Editor Corner, Title|Games</div>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td height="120">
+
+		    
+
+			<div class="sub_container">
+
+			    <div class="sub_editors_image">
+
+				<a href="/Home/EditorsCorner/Article?Key=b916a3e0-68bf-4653-9972-8c8b55697970">
+
+				    <img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=5b00ec65-9134-4589-b8a4-c9ab4dbf0fe2&amp;Store=IngestFeeds&amp;resizew=156&amp;resizeh=120&amp;resizebg=CCCCCC&amp;env=Perf" width="156" height="120" />
+
+				</a>
+
+			    </div>
+
+			    <div class="sub_editors_category_title_generic editor_corner" style="display: none;">Lead Stories|Editor Corner, Title|Culture, Blog|Hajar</div>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td height="120">
+
+		    
+
+			<div class="sub_container">
+
+			    <div class="sub_editors_image">
+
+				<a href="/Home/EditorsCorner/Article?Key=ee240ca4-b58f-46b8-b4b7-ddf733a9a84b">
+
+				    <img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=fc76e6bd-dc7e-4290-b9df-67183dfb4186&amp;Store=IngestFeeds&amp;resizew=156&amp;resizeh=120&amp;resizebg=CCCCCC&amp;env=Perf" width="156" height="120" />
+
+				</a>
+
+			    </div>
+
+			    <div class="sub_editors_category_title_generic editor_corner" style="display: none;">Blog|Syah, Title|Tech, Lead Stories|Editor Corner</div>
+
+			</div>
+
+		    </td>
+
+		
+
+
+
+	      </tr>
+
+
+
+	      <tr>
+
+		
+
+		
+
+		    <td bgcolor="#E7E7E7" valign="top">
+
+			<div class="sub_editors_caption">
+
+			    <a href="/Home/EditorsCorner/Article?Key=89fd83d8-1fc0-4921-8b42-3116199451ba">The Green Pastures of Putrajaya – Part 2</a>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td bgcolor="#E7E7E7" valign="top">
+
+			<div class="sub_editors_caption">
+
+			    <a href="/Home/EditorsCorner/Article?Key=e20e25c3-9eb2-4811-b033-a556906121f3">On the BRINK of civilization</a>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td bgcolor="#E7E7E7" valign="top">
+
+			<div class="sub_editors_caption">
+
+			    <a href="/Home/EditorsCorner/Article?Key=b916a3e0-68bf-4653-9972-8c8b55697970">New Jersey to 90210: How real is reality TV?</a>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td bgcolor="#E7E7E7" valign="top">
+
+			<div class="sub_editors_caption">
+
+			    <a href="/Home/EditorsCorner/Article?Key=ee240ca4-b58f-46b8-b4b7-ddf733a9a84b">A beginner’s guide to online shopping</a>
+
+			</div>
+
+		    </td>
+
+		
+
+			
+
+	      </tr>
+
+	    </table>
+
+	</div>
+
+	<div id="a2" style="display:none; float:left;" xmlns="">
+
+	<div class="ModuleHeaderTxt" style="width: 99%"><a href="/Home/EditorsCorner/BM" style="color: Black">Editors Corner   </a><span style="font-size:10px; float:right;"><a href="javascript:switchid('a1');"> English | </a><a href="javascript:switchid('a2');">Malay</a></span></div>
+
+	    <table width="630" border="0" cellspacing="1" cellpadding="1" style="margin:0 auto;">
+
+	      <tr>
+
+			
+
+		
+
+		    <td height="120">
+
+		    
+
+			<div class="sub_container">
+
+			    <div class="sub_editors_image">
+
+				<a href="/Home/EditorsCorner/BM/Article?Key=c66ed506-788e-459b-be13-14765ca43a91">
+
+				    <img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=4ec5b9d5-8c5f-49b6-82a1-48337694d50f&amp;Store=IngestFeeds&amp;resizew=156&amp;resizeh=120&amp;resizebg=CCCCCC&amp;env=Perf" width="156" height="120" />
+
+				</a>
+
+			    </div>
+
+			    <div class="sub_editors_category_title_generic editor_corner" style="display: none;">Lead Stories|Editor Corner, Title|Games</div>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td height="120">
+
+		    
+
+			<div class="sub_container">
+
+			    <div class="sub_editors_image">
+
+				<a href="/Home/EditorsCorner/BM/Article?Key=64b44059-7fd5-4a44-989a-0aadb2e4fe18">
+
+				    <img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=5b00ec65-9134-4589-b8a4-c9ab4dbf0fe2&amp;Store=IngestFeeds&amp;resizew=156&amp;resizeh=120&amp;resizebg=CCCCCC&amp;env=Perf" width="156" height="120" />
+
+				</a>
+
+			    </div>
+
+			    <div class="sub_editors_category_title_generic editor_corner" style="display: none;">Lead Stories|Editor Corner, Title|Culture, Blog|Hajar</div>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td height="120">
+
+		    
+
+			<div class="sub_container">
+
+			    <div class="sub_editors_image">
+
+				<a href="/Home/EditorsCorner/BM/Article?Key=2ac8f251-90fc-4eba-a7a0-40221758b5ca">
+
+				    <img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=789cdb89-1f4d-4147-a7d7-b0316c47e7ba&amp;Store=IngestFeeds&amp;resizew=156&amp;resizeh=120&amp;resizebg=CCCCCC&amp;env=Perf" width="156" height="120" />
+
+				</a>
+
+			    </div>
+
+			    <div class="sub_editors_category_title_generic editor_corner" style="display: none;">Lead Stories|Editor Corner, Blog|Tasnim, Title|Travel</div>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td height="120">
+
+		    
+
+			<div class="sub_container">
+
+			    <div class="sub_editors_image">
+
+				<a href="/Home/EditorsCorner/BM/Article?Key=a49b5ee2-c44c-4709-9c56-ae0fb3c37431">
+
+				    <img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=a6956ea5-361d-4566-82c2-be6ab2bb050e&amp;Store=IngestFeeds&amp;resizew=156&amp;resizeh=120&amp;resizebg=CCCCCC&amp;env=Perf" width="156" height="120" />
+
+				</a>
+
+			    </div>
+
+			    <div class="sub_editors_category_title_generic editor_corner" style="display: none;">Blog|Tasnim, Lead Stories|Editor Corner, Title|Travel, Category|MLPThisWeek</div>
+
+			</div>
+
+		    </td>
+
+		
+
+
+
+	      </tr>
+
+
+
+	      <tr>
+
+		
+
+		
+
+		    <td bgcolor="#E7E7E7" valign="top">
+
+			<div class="sub_editors_caption">
+
+			    <a href="/Home/EditorsCorner/BM/Article?Key=c66ed506-788e-459b-be13-14765ca43a91">BRINK- Pada pinggir tamadun</a>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td bgcolor="#E7E7E7" valign="top">
+
+			<div class="sub_editors_caption">
+
+			    <a href="/Home/EditorsCorner/BM/Article?Key=64b44059-7fd5-4a44-989a-0aadb2e4fe18">Sejauh manakah realiti TV menggambarkan realiti?</a>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td bgcolor="#E7E7E7" valign="top">
+
+			<div class="sub_editors_caption">
+
+			    <a href="/Home/EditorsCorner/BM/Article?Key=2ac8f251-90fc-4eba-a7a0-40221758b5ca">Singgah Sebentar di Singapura</a>
+
+			</div>
+
+		    </td>
+
+		
+
+		    <td bgcolor="#E7E7E7" valign="top">
+
+			<div class="sub_editors_caption">
+
+			    <a href="/Home/EditorsCorner/BM/Article?Key=a49b5ee2-c44c-4709-9c56-ae0fb3c37431">Percutian unik di tepi tasik</a>
+
+			</div>
+
+		    </td>
+
+		
+
+			
+
+	      </tr>
+
+	    </table>
+
+	</div>
+
+  
+
+
+
+    <!-- START MH2-->
+
+    
+
+    <!--START LOCAL + WORLD -->
+
+    
+
+	<div class="moduleSubHighlight " xmlns="">
+
+		<div class="subHighlight">
+
+			<div class="ModuleHeaderTxt"><a href="/Local">Local</a></div>
+
+			
+
+    <div for="Item" qualifier="1">
+
+					<div class="titleBox">
+
+						<div class="titletxt optThb">
+
+							<a href="/Local/Article?Key=881f255b-777f-4cc9-a312-2855b7259e5d" style="height: 3.8em; overflow: hidden;">
+
+								Najib meets US investors at NYSE
+
+							</a>
+
+							<div class="Timestamp">
+
+								BERNAMA - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-17T18:19:41", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+							    </div>
+
+							<a href="/Local/Article?Key=881f255b-777f-4cc9-a312-2855b7259e5d" class="thb"></a>
+
+							
+
+							<span style="height: 3.8em; overflow: hidden;">
+
+								PM arrived at the New York Stock Exchange to meet US's investors.
+
+							</span>
+
+						</div>						
+
+					</div>
+
+				</div>
+
+    <div for="Item">
+
+					<div class="titleBox">
+
+						<div class="titletxt noThb">
+
+							<a href="/Local/Article?Key=de81853a-271a-41ea-9e1e-44dfca427b28">
+
+								<div style="height: 1.2em; overflow: hidden">Ron95 petrol price to be revised next month</div>
+
+							</a>
+
+                            <div class="Timestamp">
+
+                                BERNAMA - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-17T08:14:17", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                            </div>
+
+							<span>
+
+								<div style="height: 2.5em; overflow: hidden">Come next month, the government will review prices of all petroleum products, including the RON95 petrol.</div>
+
+							</span>
+
+						</div>
+
+					</div>
+
+				
+
+					<div class="titleBox">
+
+						<div class="titletxt noThb">
+
+							<a href="/Local/Article?Key=e6f8a48f-0069-403e-ba09-d2df6c9385e6">
+
+								<div style="height: 1.2em; overflow: hidden">Malaysia to send aid to Palestine in face of obstacles</div>
+
+							</a>
+
+                            <div class="Timestamp">
+
+                                BERNAMA - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-17T04:09:51", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                            </div>
+
+							<span>
+
+								<div style="height: 2.5em; overflow: hidden">Datuk Seri Najib Tun Razak said Monday Malaysia would continue to send aid to the people of Palestine.</div>
+
+							</span>
+
+						</div>
+
+					</div>
+
+				</div>
+
+  
+
+		</div>
+
+		
+
+		<div class="subHighlight right">
+
+			<div class="ModuleHeaderTxt"><a href="/World">World</a></div>
+
+			
+
+    <div for="Item" qualifier="1">
+
+					<div class="titleBox">
+
+						<div class="titletxt optThb">
+
+							<a href="/World/Article?Key=e66f597c-9f0b-4dca-8bbb-8b3f27c50776" style="height: 3.8em; overflow: hidden;">
+
+								Medvedev keeps Russia guessing on election
+
+							</a>
+
+							<div class="Timestamp">
+
+								reuters.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T18:21:34", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+							    </div>
+
+							<a href="/World/Article?Key=e66f597c-9f0b-4dca-8bbb-8b3f27c50776" class="thb"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=e5df4dba-2e16-4228-982d-d123ea1c696c&amp;Store=IngestFeeds&amp;resizew=91&amp;resizeh=50&amp;resizebg=FFFFFF&amp;env=Perf" /></a>
+
+                            					
+
+							<span style="height: 3.8em; overflow: hidden;">
+
+								President Medvedev and PM Putin kept Russia guessing which of them will run in the 2012 election.
+
+							</span>
+
+						</div>		
+
+					</div>
+
+				</div>
+
+    <div for="Item">
+
+					<div class="titleBox">
+
+						<div class="titletxt noThb">
+
+							<a href="/World/Article?Key=377b8648-f6e1-4258-a011-48915cca8826">
+
+								<div style="height: 1.2em; overflow: hidden">Toilet row grabs headlines in election</div>
+
+							</a>
+
+                            <div class="Timestamp">
+
+                                reuters.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T18:19:19", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                            </div>
+
+							<span>
+
+								<div style="height: 2.5em; overflow: hidden">South Africans believe open toilets built for the poor have become a potent symbol of govt neglect.</div>
+
+							</span>
+
+						</div>
+
+					</div>
+
+				
+
+					<div class="titleBox">
+
+						<div class="titletxt noThb">
+
+							<a href="/World/Article?Key=0a1b0d09-25ed-4224-9ea9-2beebcd16532">
+
+								<div style="height: 1.2em; overflow: hidden">Libya rebels eye OPEC meeting </div>
+
+							</a>
+
+                            <div class="Timestamp">
+
+                                afp.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T18:04:46", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                            </div>
+
+							<span>
+
+								<div style="height: 2.5em; overflow: hidden">Libya's regime had its back to the wall on Wednesday as it faced NATO air strikes.</div>
+
+							</span>
+
+						</div>
+
+					</div>
+
+				</div>
+
+  
+
+		</div>
+
+	</div>
+
+  
+
+    <!--END LOCAL + WORDL -->
+
+    
+
+    <!--START TECH + BUSINESS -->
+
+    
+
+	<div class="moduleSubHighlight " xmlns="">
+
+		<div class="subHighlight">
+
+			<div class="ModuleHeaderTxt"><a href="/Technology">Technology</a></div>
+
+			
+
+    <div for="Item" qualifier="1">
+
+					<div class="titleBox">
+
+						<div class="titletxt optThb">
+
+							<a href="/Technology/Article?Key=bd1ee865-d6ca-4f9d-9c42-f33d72fa9850" style="height: 3.8em; overflow: hidden;">
+
+								YouTube takes political pulse
+
+							</a>
+
+							<div class="Timestamp">
+
+								afp.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T18:04:22", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+							    </div>
+
+							<a href="/Technology/Article?Key=bd1ee865-d6ca-4f9d-9c42-f33d72fa9850" class="thb"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=19b25621-1257-4de0-9c90-8cdcbb033de8&amp;Store=IngestFeeds&amp;resizew=91&amp;resizeh=50&amp;resizebg=FFFFFF&amp;env=Perf" /></a>
+
+							
+
+							<span style="height: 3.8em; overflow: hidden;">
+
+								YouTube launched a "Town Hall" website at which US congressional leaders address issues in brief videos.
+
+							</span>
+
+						</div>						
+
+					</div>
+
+				</div>
+
+    <div for="Item">
+
+					<div class="titleBox">
+
+						<div class="titletxt noThb">
+
+							<a href="/Technology/Article?Key=4d279418-a7c8-487e-9253-bebf4006c1bf">
+
+								<div style="height: 1.2em; overflow: hidden">Sony boss: Security not guaranteed after hacking</div>
+
+							</a>
+
+                            <div class="Timestamp">
+
+                                afp.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T04:16:58", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                            </div>
+
+							<span>
+
+								<div style="height: 2.5em; overflow: hidden">Sony chief Stringer says he can't guarantee the security of the company's gaming network</div>
+
+							</span>
+
+						</div>
+
+					</div>
+
+				
+
+					<div class="titleBox">
+
+						<div class="titletxt noThb">
+
+							<a href="/Technology/Article?Key=9000f5ef-9e4e-4f2f-98b1-8863f0f1e079">
+
+								<div style="height: 1.2em; overflow: hidden">Dell profit nearly triples</div>
+
+							</a>
+
+                            <div class="Timestamp">
+
+                                afp.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-17T23:38:50", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                            </div>
+
+							<span>
+
+								<div style="height: 2.5em; overflow: hidden">Dell reported that its profit nearly tripled in the recently-ended quarter on strong sales to businesses.</div>
+
+							</span>
+
+						</div>
+
+					</div>
+
+				</div>
+
+  
+
+		</div>
+
+		
+
+		<div class="subHighlight right">
+
+			<div class="ModuleHeaderTxt"><a href="/Business">Business</a></div>
+
+			
+
+    <div for="Item" qualifier="1">
+
+					<div class="titleBox">
+
+						<div class="titletxt optThb">
+
+							<a href="/Business/Article?Key=2efc77aa-e91a-449f-8563-54c3ee7d7bd5" style="height: 3.8em; overflow: hidden;">
+
+								Insider trading trial defendants attack case
+
+							</a>
+
+							<div class="Timestamp">
+
+								reuters.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T18:13:59", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+							    </div>
+
+							<a href="/Business/Article?Key=2efc77aa-e91a-449f-8563-54c3ee7d7bd5" class="thb"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=ee4deaba-3a01-45d9-92c7-6c44beb8ac3d&amp;Store=IngestFeeds&amp;resizew=91&amp;resizeh=50&amp;resizebg=FFFFFF&amp;env=Perf" /></a>
+
+                            					
+
+							<span style="height: 3.8em; overflow: hidden;">
+
+								A former hedge fund trader on trial for insider trading waded into Wall Street's gossip for tips.
+
+							</span>
+
+						</div>		
+
+					</div>
+
+				</div>
+
+    <div for="Item">
+
+					<div class="titleBox">
+
+						<div class="titletxt noThb">
+
+							<a href="/Business/Article?Key=0fd03e79-5c88-4fb3-bd2f-0b523ab2d407">
+
+								<div style="height: 1.2em; overflow: hidden">WTO gives mixed verdict on Airbus appeal</div>
+
+							</a>
+
+                            <div class="Timestamp">
+
+                                reuters.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T18:13:23", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                            </div>
+
+							<span>
+
+								<div style="height: 2.5em; overflow: hidden">Trade judges partially overturned a ruling that had accused EU states of giving Airbus illegal subsidies.</div>
+
+							</span>
+
+						</div>
+
+					</div>
+
+				
+
+					<div class="titleBox">
+
+						<div class="titletxt noThb">
+
+							<a href="/Business/Article?Key=7ce68095-f14a-410c-9bdc-096b01dfd254">
+
+								<div style="height: 1.2em; overflow: hidden">Target, BJ's profits show spending caution</div>
+
+							</a>
+
+                            <div class="Timestamp">
+
+                                reuters.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T18:11:21", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                            </div>
+
+							<span>
+
+								<div style="height: 2.5em; overflow: hidden">Shoppers are spending cautiously because of higher food and gas prices, results reported.</div>
+
+							</span>
+
+						</div>
+
+					</div>
+
+				</div>
+
+  
+
+		</div>
+
+	</div>
+
+  
+
+    <!--END TECH + BUSINESS -->
+
+    
+
+    <!--START ENTERTAINMENT + SPORT -->
+
+    
+
+	<div class="moduleSubHighlight 02" xmlns="">
+
+		<div class="subHighlight02">
+
+			<div class="ModuleHeaderTxt"><a href="/Entertainment">Entertainment</a></div>
+
+			
+
+    <div for="Item" qualifier="1">
+
+					<div class="titleBox">
+
+						<div class="titletxt optThb">
+
+							<a href="/Entertainment/Article?Key=5d5cdd65-2126-4861-946a-35d44ae3fc1f" style="height: 3.8em; overflow: hidden;">
+
+								Director at Cannes 'sympathises' with Hitler
+
+							</a>
+
+							<div class="Timestamp">
+
+                                afp.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T17:19:56", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                            </div>	
+
+							<a href="/Entertainment/Article?Key=5d5cdd65-2126-4861-946a-35d44ae3fc1f" class="thb"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=88e60dbb-6891-41ac-a539-eb6f62c75337&amp;Store=IngestFeeds&amp;resizew=91&amp;resizeh=50&amp;resizebg=FFFFFF&amp;env=Perf" /></a>	
+
+      				
+
+							<span style="height: 3.8em; overflow: hidden;">
+
+								Danish director Lars von Trier apologised after he said that he sympathised with Hitler.
+
+							</span>
+
+						</div>						
+
+					</div>
+
+				</div>
+
+    <div for="Item">
+
+					<div class="titleBox">
+
+						<div class="titletxt noThb">
+
+							<a href="/Entertainment/Article?Key=31c1b688-c1be-4c4e-adf1-dd1c6d895542">
+
+								<div style="height: 1.2em; overflow: hidden">Bollywood marketing goes mobile</div>
+
+							</a>
+
+                            <div class="Timestamp">
+
+                                afp.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T06:43:56", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                            </div>
+
+							<span>
+
+								<div style="height: 2.5em; overflow: hidden">Times have changed in Bollywood from the days when all that was required to promote a film was a giant, hand-painted poster, a ...</div>
+
+							</span>
+
+						</div>
+
+					</div>
+
+				
+
+					<div class="titleBox">
+
+						<div class="titletxt noThb">
+
+							<a href="/Entertainment/Article?Key=ffd85c96-dea2-487b-98b3-d6c93e91d082">
+
+								<div style="height: 1.2em; overflow: hidden">Gamers play Hollywood detectives in 'L.A. Noire'</div>
+
+							</a>
+
+                            <div class="Timestamp">
+
+                                afp.com - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeUtc("2011-05-18T01:02:32", 8);
+
+	    //]]>
+
+    </script>
+
+  
+
+                            </div>
+
+							<span>
+
+								<div style="height: 2.5em; overflow: hidden">"Grand Theft Auto" makers have broken new ground </div>
+
+							</span>
+
+						</div>
+
+					</div>
+
+				</div>
+
+  
+
+		</div>
+
+		
+
+		<div class="subHighlight02 right">
+
+			<div class="ModuleHeaderTxt"><a href="/Sports">Sports</a></div>
+
+			
+
+    <div class="titleBox">
+
+      <div class="titletxt optThb">
+
+        <a href="/Sports/Article?news=164826" style="height: 3.8em; overflow: hidden;">
+
+								M-League teams allowed to sign two import players next season
+
+							</a>
+
+        <div class="Timestamp">
+
+                                Bernama - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeSA("7/13/2011 6:20:59 AM", 8);
+
+	    //]]>
+
+    </script>
+
+  </div>
+
+        <a href="/Sports/Article?news=164826" class="thb">
+
+          <img src="http://mob.sports.mylaunchpad.com.my/portals/0/Football/TgganuPialaFA_S.jpg" alt="" />
+
+        </a>
+
+        <span style="height: 3.8em; overflow: hidden;">
+
+								PETALING JAYA, (Bernama) - Teams playing in the M-League will be allowed to use the services of foreign players next season but limited to two players per team.
+
+							</span>
+
+      </div>
+
+    </div>
+
+  
+
+			
+
+			
+
+    <div class="titleBox">
+
+      <div class="titletxt noThb">
+
+        <a href="/Sports/Article?news=164832">
+
+          <div style="height: 1.2em; overflow: hidden"> Villas-Boas's methods get Mikel vote</div>
+
+        </a>
+
+        <div class="Timestamp">
+
+                                AFP - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeSA("7/13/2011 8:30:00 AM", 8);
+
+	    //]]>
+
+    </script>
+
+  </div>
+
+        <span>
+
+          <div style="height: 2.5em; overflow: hidden"> Nigeria midfielder John Obi Mikel has welcomed the training regime of new Chelsea manager Andre Villas-Boas.</div>
+
+        </span>
+
+      </div>
+
+    </div>
+
+  
+
+			
+
+			
+
+    <div class="titleBox">
+
+      <div class="titletxt noThb">
+
+        <a href="/Sports/Article?news=164826">
+
+          <div style="height: 1.2em; overflow: hidden">M-League teams allowed to sign two import players next season</div>
+
+        </a>
+
+        <div class="Timestamp">
+
+                                Bernama - 
+
+	<script type="text/javascript">
+
+        // <![CDATA[
+
+            FormatDateTimeSA("7/13/2011 6:18:00 AM", 8);
+
+	    //]]>
+
+    </script>
+
+  </div>
+
+        <span>
+
+          <div style="height: 2.5em; overflow: hidden">PETALING JAYA, (Bernama) - Teams playing in the M-League will be allowed to use the services of foreign players next season but limited to two players per team.</div>
+
+        </span>
+
+      </div>
+
+    </div>
+
+  
+
+		</div>
+
+	</div>
+
+  
+
+    <!--END ENTERTAINMENT + SPORT -->
+
+    
+
+    <!-- END MH2-->
+
+
+
+    
+
+			</div>
+
+
+
+			<div id="RightHubContainer">
+
+				<div id="RightHub">
+
+                    
+
+    <div style="position:relative; margin-bottom: 10px; height: 115px;" xmlns="">
+
+	    <div style="border: 1px solid #ccc; width:298px; height:80px; padding-top: 25px; position: absolute; top: 10px">
+
+            
+
+    <div class="StayConnectContainer">
+
+        <table width="300" border="0" cellspacing="0" cellpadding="0">
+
+          <tr>
+
+            <td width="40" height="22" align="center">
+
+                <a href="http://www.facebook.com/newsmlp" rel="externalnews StayConnectTop" target="_blank" title="Follow us at Facebook">
+
+                    <img src="/images/social-networking-fb.jpg" width="18" height="18" style="border: 0px" />
+
+                </a>
+
+            </td>
+
+            <td width="260"><div class="stay_connected_fonttypeface"><a href="http://www.facebook.com/newsmlp" rel="externalnews StayConnectTop" target="_blank">Follow us on Facebook</a></div></td>
+
+          </tr>
+
+          <tr>
+
+            <td height="22" align="center">
+
+                <a href="http://www.twitter.com/newsmlp" target="_blank" rel="externalnews StayConnectTop" title="Follow us at Twitter @newsmlp">
+
+                    <img src="/images/social-networking-twitter.jpg" rel="externalnews StayConnectTop" width="18" height="18" style="border: 0px;" />
+
+                </a>
+
+            </td>
+
+            <td><div class="stay_connected_fonttypeface"><a href="http://www.twitter.com/newsmlp" rel="externalnews StayConnectTop" target="_blank">@newsmlp</a></div></td>
+
+          </tr>
+
+          <tr>
+
+            <td height="22" align="center">
+
+                <a href="/RSS" title="RSS">
+
+                    <img src="/images/social-networking-rss.jpg" width="18" height="18" />
+
+                </a>
+
+            </td>
+
+            <td>
+
+                <div class="stay_connected_fonttypeface">
+
+                    <a href="/~request/Component.DigitalFive.News.View.RssList/Rss?Section=local&amp;host=finance.mylaunchpad.com.my" target="_blank">Malaysia</a> | 
+
+                    <a href="/~request/Component.DigitalFive.News.View.RssList/Rss?Section=world_ap&amp;host=finance.mylaunchpad.com.my" target="_blank">Asia Pasific</a> | 
+
+                    <a href="/~request/Component.DigitalFive.News.View.RssList/Rss?Section=technology&amp;host=finance.mylaunchpad.com.my" target="_blank">Tech</a> | 
+
+                    <a href="/~request/Component.DigitalFive.News.View.RssList/Rss?Section=local_business&amp;host=finance.mylaunchpad.com.my" target="_blank">Biz</a> | 
+
+                    <a href="/RSS">More</a>
+
+                </div>
+
+            </td>
+
+          </tr>
+
+        </table>
+
+    </div>
+
+  
+
+        </div>
+
+	    <div style="border-left: 5px solid #fff;border-right: 5px solid #fff;border-bottom: 5px solid #fff;background-color:#FFF; display:block; height:30px;  position: absolute; top:0; left:0; font-size:18px; font-weight:bold; margin-right:10px; color:#000;">
+
+            Stay Connected
+
+        </div>
+
+        <div style="clear: both"></div>
+
+    </div>
+
+    
+
+  
+
+
+
+					<!-- Banner Ad -->
+
+					  <div style="width:300px;height:250px;">
+
+					    <script type="text/javascript">					        GA_googleFillSlot(_gads_rect);</script>
+
+					  </div>
+
+					  
+
+					  
+
+	<div style="height: 100px; margin-top: 10px;" xmlns="">
+
+		<div style="width: 300px; position: relative;">        
+
+			<div style="border: 1px solid #CCC; width: 298px; padding-top: 25px; position: absolute; top: 10px;">
+
+				<div class="moduleHubArticle 01">
+
+				    <div class="hubArticle01">
+
+						
+
+					
+
+		<div style="border-bottom: 0; margin-left:10px;">					
+
+			
+
+			    <!-- <a href="/YourStory/Mothers-Day/Originalo?Key=d9727311-582b-4403-88ef-46ecaa786a64"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=b1e468df-2142-4cbf-9c8d-e69baa967879&amp;Store=IngestFeeds&amp;resizew=120&amp;env=Perf"/></a> -->
+
+				<a href="/YourStory/Mothers-Day/Originalo?Key=d9727311-582b-4403-88ef-46ecaa786a64">Is your mum a hipster, tech geek, sportswoman or master chef? Tell us!</a>
+
+		
+
+		</div>		
+
+	 
+
+	<br />
+
+  
+
+
+
+						
+
+				    </div>
+
+				</div>				
+
+			</div>
+
+			<div style="border-left: 5px solid #fff;border-right: 5px solid #fff;border-bottom: 5px solid #fff;background-color:#FFF; display:block; height:30px;  position: absolute; top:0; left:0; font-size:18px; font-weight:bold; margin-right:10px; color:#000;">
+
+				<!-- <a href="/YourStory/Mothers-Day/JoinContest"> <img src="/images/mothersdaytinybanner.jpg" alt="Mothers's Day" align="absmiddle" border="0" /></a> -->
+
+				<img src="/images/mothersdaytinybanner.jpg" alt="Mothers's Day" align="absmiddle" border="0" />
+
+			</div>
+
+		</div>
+
+	</div>
+
+  
+
+
+
+					  
+
+    <!--<div style="height: 790px; margin-top: 10px;">-->
+
+    <!--<div style="height: 405px; margin-top: 10px;">-->
+
+    <div style="height: 250px; margin-top: 0px;" xmlns="">	
+
+        <div style="width: 300px; position: relative;">        
+
+            <div style="border: 1px solid #CCC; width: 298px; padding-top: 25px; position: absolute; top: 10px;">
+
+                <div class="moduleHubArticle 01">
+
+		            <div class="hubArticle01">
+
+			            <!--<div class="ModuleHeaderTxtPlain">Royal Wedding</div>-->
+
+			            
+
+				            <div class="titleBox">
+
+					            <div class="pix"><a href="/RoyalWedding/Article?Key=cfee5756-44b0-4851-9514-240cadf2e4d5"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=eecebd65-8f11-4f50-8b7f-9c42b1712a73&amp;Store=IngestFeeds&amp;resizew=70&amp;resizeh=70&amp;resizebg=CCCCCC&amp;env=Perf" /></a></div>
+
+					            <div class="titletxt"><a href="/RoyalWedding/Article?Key=cfee5756-44b0-4851-9514-240cadf2e4d5">The Wiggles bid for Princess Beatrice's royal hat</a><span></span> </div>
+
+				            </div>
+
+			            
+
+				            <div class="titleBox">
+
+					            <div class="pix"><a href="/RoyalWedding/Article?Key=b8ca9312-692e-4eff-9fd9-71b0db717472"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=391c4bb9-7ad9-41e4-8e0b-e7d75b8b89ac&amp;Store=IngestFeeds&amp;resizew=70&amp;resizeh=70&amp;resizebg=CCCCCC&amp;env=Perf" /></a></div>
+
+					            <div class="titletxt"><a href="/RoyalWedding/Article?Key=b8ca9312-692e-4eff-9fd9-71b0db717472">Pippa Middleton: surprise star of the royal wedding</a><span></span> </div>
+
+				            </div>
+
+			            
+
+				            <div class="titleBox">
+
+					            <div class="pix"><a href="/RoyalWedding/Article?Key=c110188a-1139-4941-8ca0-b2844d17d515"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=63396af8-fd00-4059-a292-ccb602cfac64&amp;Store=IngestFeeds&amp;resizew=70&amp;resizeh=70&amp;resizebg=CCCCCC&amp;env=Perf" /></a></div>
+
+					            <div class="titletxt"><a href="/RoyalWedding/Article?Key=c110188a-1139-4941-8ca0-b2844d17d515">Seychelles declines comment on royal honeymoon</a><span></span> </div>
+
+				            </div>
+
+			            
+
+		            </div>
+
+	            </div>
+
+                <div style="clear: both"></div>
+
+            </div>
+
+
+
+            <div style="border-left: 5px solid #fff;border-right: 5px solid #fff;border-bottom: 5px solid #fff;background-color:#FFF; display:block; height:30px;  position: absolute; top:0; left:0; font-size:18px; font-weight:bold; margin-right:10px; color:#000;">
+
+               <a href="/RoyalWedding"> <img src="/images/royalwedding.jpg" alt="Royal Wedding" align="absmiddle" border="0" /></a>
+
+            </div>
+
+        
+
+        </div>
+
+
+
+        <div style="clear: both"></div>
+
+    </div>
+
+  
+
+					<br />
+
+					 
+
+    <!--<div style="height: 790px; margin-top: 10px;">-->
+
+    <!--<div style="height: 405px; margin-top: 10px;">-->
+
+    <div style="height: 160px; margin-top: 5px;" xmlns="">
+
+        <div style="width: 300px; position: relative;">
+
+        
+
+            <div style="border: 1px solid #CCC; width: 298px; padding-top: 40px; position: absolute; top: 10px;">
+
+                <div class="moduleHubArticle 01">
+
+		            <div class="hubArticle01">							  						
+
+						<ul class="SarawakNews">							
+
+							
+
+								<li>
+
+  <a href="/TsunamiJapan/Article?Key=b4d9dc7f-da66-4e21-84d7-284b2e1011f0">Japan will not abandon nuclear power</a>
+
+</li>
+
+							
+
+								<li>
+
+  <a href="/TsunamiJapan/Article?Key=a442e7c9-513d-470d-b987-c1c30d659e24">Japan disaster not similar to Chernobyl</a>
+
+</li>
+
+							
+
+								<li>
+
+  <a href="/TsunamiJapan/Article?Key=a2565c14-b729-4f80-aa1e-792024924e45">Japan's nuclear crisis timetable on track</a>
+
+</li>
+
+														
+
+						</ul>
+
+		            </div>
+
+	            </div>
+
+                <!-- <div style="clear: both"></div> -->
+
+            </div>
+
+
+
+            <div style="border-left: 5px solid #fff;border-right: 5px solid #fff;border-bottom: 5px solid #fff;background-color:#FFF; display:block; height:20px;  position: absolute; top:0; left:0; font-size:18px; font-weight:bold; margin-right:10px; color:#000;">
+
+		<a href="/TsunamiJapan"><span style="color:black;">Tsunami Japan</span></a>					
+
+		
+
+            </div>		
+
+        </div>
+
+
+
+        <div style="clear: both"></div>
+
+    </div>
+
+  		  
+
+			
+
+
+
+					  <!-- Banner Ad END -->
+
+					  
+
+
+
+    <div style="margin-top: 10px;">
+
+            
+
+    <div class="FinanceContainer" xmlns="">
+
+        <table width="300" border="0" cellspacing="0" cellpadding="0">
+
+          <tr>
+
+            <td><table width="290" border="0" cellspacing="0" cellpadding="0" align="center">
+
+          <tr>
+
+            <td><div id="navigation"><div class="applemenu">
+
+        <div class="silverheader"><a href="http://finance.mylaunchpad.com.my" onclick="trackThis(this);" rel="externalnews FinanceRightCol" target="_blank" title="Markets"><img src="/images/finance-markets.jpg" width="290" height="30" border="0" /></a></div>
+
+	        <div class="submenu">
+
+            <table id="StockList" width="290" border="0" cellspacing="2" cellpadding="2">
+
+	            <tr>
+
+	                <td colspan="4"></td>
+
+	            </tr>
+
+	        </table>
+
+            <table width="290" border="0" cellspacing="1" cellpadding="0">
+
+              <tr>
+
+                <td width="130"><div style="font:Arial, Helvetica, sans-serif; font-size:10px; color:#666;"><a id="Currency1Link" onclick="trackThis(this);" rel="externalnews FinanceRightCol" target="_blank"><img src="/images/sgd.jpg" width="71" height="20" border="0" /></a></div></td>
+
+                <td width="130"><a id="Currency2Link" href="" rel="externalnews FinanceRightCol" target="_blank"><img src="/images/jpy.jpg" width="71" height="20" border="0" /></a></td>
+
+                <td width="260"><a id="Currency3Link" href="" rel="externalnews FinanceRightCol" target="_blank"><img src="/images/usd.jpg" width="71" height="20" border="0" /></a></td>
+
+                <td width="260"><a id="Currency4Link" href="" rel="externalnews FinanceRightCol" target="_blank"><img src="/images/eur.jpg" width="71" height="20" border="0" /></a></td>
+
+              </tr>
+
+              <tr>
+
+                <td id="Currency1" height="28" bgcolor="#CCCCCC" align="center" class="finance_darkgreytxt">Loading...</td>
+
+                <td id="Currency2" height="28" bgcolor="#CCCCCC" align="center" class="finance_darkgreytxt">Loading...</td>
+
+                <td id="Currency3" height="28" bgcolor="#CCCCCC" align="center" class="finance_darkgreytxt">Loading...</td>
+
+                <td id="Currency4" height="28" bgcolor="#CCCCCC" align="center" class="finance_darkgreytxt">Loading...</td>
+
+              </tr>
+
+              <tr>
+
+                <td colspan="4" height="5"><img src="/images/spacer-grey-bar.gif" width="100%" height="1" /></td>
+
+              </tr>
+
+              <tr>
+
+                <td colspan="4" class="finance_lightbluetxt">
+
+                    <div>
+
+                        <table border="0" cellpadding="0" cellspacing="1" class="BusinessNews">
+
+                          <tr>
+
+                            <td style="vertical-align: top;">
+
+                                <table border="0" align="center" cellpadding="0" cellspacing="0">
+
+                                  <tr>
+
+                                    <td>
+
+                                        
+
+                                            <div class="article_postlinks">
+
+  <a href="http://finance.mylaunchpad.com.my/News?Key=21166c40-279c-4a3b-97e3-2b27196482f5" onclick="trackThis(this);" rel="externalnews FinanceRightCol" target="_blank">» WTO overturns US aid complaint on Airbus</a>
+
+</div>
+
+                                        
+
+                                            <div class="article_postlinks">
+
+  <a href="http://finance.mylaunchpad.com.my/News?Key=fec41aa4-b89c-42eb-8fb0-2c106ea79360" onclick="trackThis(this);" rel="externalnews FinanceRightCol" target="_blank">» Anti-crisis protesters vow to defy ban</a>
+
+</div>
+
+                                        
+
+                                            <div class="article_postlinks">
+
+  <a href="http://finance.mylaunchpad.com.my/News?Key=7095c667-c05a-43d9-9750-beba9f0feff1" onclick="trackThis(this);" rel="externalnews FinanceRightCol" target="_blank">» Nuclear power can endure 'bump in the road'</a>
+
+</div>
+
+                                        
+
+                                    </td>
+
+                                  </tr>
+
+                                </table>
+
+                            </td>
+
+                          </tr>
+
+                        </table>
+
+                    </div>
+
+                </td>
+
+              </tr>
+
+              <tr>
+
+                <td colspan="4" height="5"><img src="/images/spacer-grey-bar.gif" width="100%" height="1" /></td>
+
+              </tr>
+
+              <tr>
+
+                <td colspan="4" class="finance_lightbluetxt">
+
+                    <a>More &gt;&gt; </a>
+
+                    <a href="http://finance.mylaunchpad.com.my/MalaysiaMarket" onclick="trackThis(this);" rel="externalnews FinanceRightCol" target="_blank">Malaysian Market</a> | 
+
+                    <a href="http://finance.mylaunchpad.com.my/WorldMarket" onclick="trackThis(this);" rel="externalnews FinanceRightCol" target="_blank">World Market</a> | 
+
+                    <a href="http://finance.mylaunchpad.com.my/Currencies" onclick="trackThis(this);" rel="externalnews FinanceRightCol" target="_blank">Currency</a>
+
+                </td>
+
+              </tr>
+
+              <!--<tr>
+
+                <td colspan="4" ><div class="finance_greytxt">In associate with</div>
+
+                  <img src="/images/logo.gif" width="76" height="13" /></td>
+
+              </tr>-->
+
+            </table>
+
+            </div>
+
+            <div class="silverheader"><a href="#" title="Currency converter"><img src="/images/finance-currency_converter.jpg" width="290" height="30" border="0" /></a></div>
+
+	        <div class="submenu">
+
+	          <div style="font:Arial, Helvetica, sans-serif; font-size:10px; color:#666; font-weight:bold;">
+
+	            <table width="280" border="0" cellspacing="2" cellpadding="2" align="center">
+
+	              <tr>
+
+	                <td>Amount<br />
+
+	                  <input type="text" id="AmountText" onkeyup="Convert();" /></td>
+
+	                </tr>
+
+	              <tr>
+
+	                <td>From :<br />
+
+	                  <select id="CurrencyFrom" onchange="Convert();"></select></td>
+
+	                </tr>
+
+	              <tr>
+
+	                <td>To:<br />
+
+	                  <select id="CurrencyTo" onchange="Convert();"></select></td>
+
+	                </tr>
+
+	              <tr>
+
+	                <td bgcolor="#CCCCCC" align="right"><div class="finance_currencytxt">= <span id="ConvertedResult"></span> <span id="CurrencyCode"></span></div></td>
+
+	                </tr>
+
+	              </table>
+
+	          </div>
+
+             </div>
+
+	
+
+        </div>
+
+        </div></td>
+
+          </tr>
+
+        </table></td>
+
+          </tr>
+
+        </table> 
+
+    </div>
+
+  
+
+        </div>
+
+
+
+	<!--RH1 -->
+
+	
+
+    <!--<div style="height: 790px; margin-top: 10px;">-->
+
+    <!--<div style="height: 405px; margin-top: 10px;">-->
+
+    <div style="height: 250px; margin-top: 0px;" xmlns="">	
+
+        <div style="width: 300px; position: relative;">        
+
+            <div style="border: 1px solid #CCC; width: 298px; padding-top: 25px; position: absolute; top: 10px;">
+
+                <div class="moduleHubArticle 01">
+
+		            <div class="hubArticle01">
+
+			            <!--<div class="ModuleHeaderTxtPlain">Lifestyle</div>-->
+
+			            
+
+				            <div class="titleBox">
+
+					            <div class="pix"><a href="/Lifestyle/Article?Key=308ae5b0-9e78-4e6a-a398-02c3a054ff68"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=c749ec8c-06c8-423b-b053-c4a5c3b1d3ea&amp;Store=IngestFeeds&amp;resizew=70&amp;resizeh=70&amp;resizebg=CCCCCC&amp;env=Perf" /></a></div>
+
+					            <div class="titletxt"><a href="/Lifestyle/Article?Key=308ae5b0-9e78-4e6a-a398-02c3a054ff68">US official touts high-speed rail at tourism meet</a><span></span> </div>
+
+				            </div>
+
+			            
+
+				            <div class="titleBox">
+
+					            <div class="pix"><a href="/Lifestyle/Article?Key=8bcec16d-3299-4ca3-89d6-11d951b77eb3"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=8d831933-3a64-480c-8424-6c0060a966f9&amp;Store=IngestFeeds&amp;resizew=70&amp;resizeh=70&amp;resizebg=CCCCCC&amp;env=Perf" /></a></div>
+
+					            <div class="titletxt"><a href="/Lifestyle/Article?Key=8bcec16d-3299-4ca3-89d6-11d951b77eb3">Doctors urge McDonald's to retire Ronald</a><span></span> </div>
+
+				            </div>
+
+			            
+
+				            <div class="titleBox">
+
+					            <div class="pix"><a href="/Lifestyle/Article?Key=6b559a2d-5bec-4df9-9a36-df8f71b8b819"><img src="/~request/Component.DigitalFive.View.BinaryData/Raw?DocumentKey=a227cc3d-10f1-4bef-8373-83b468fd694f&amp;Store=IngestFeeds&amp;resizew=70&amp;resizeh=70&amp;resizebg=CCCCCC&amp;env=Perf" /></a></div>
+
+					            <div class="titletxt"><a href="/Lifestyle/Article?Key=6b559a2d-5bec-4df9-9a36-df8f71b8b819">Mexico food fans savor boost for cuisine</a><span></span> </div>
+
+				            </div>
+
+			            
+
+		            </div>
+
+	            </div>
+
+                <div style="clear: both"></div>
+
+            </div>
+
+
+
+            <div style="border-left: 5px solid #fff;border-right: 5px solid #fff;border-bottom: 5px solid #fff;background-color:#FFF; display:block; height:30px;  position: absolute; top:0; left:0; font-size:18px; font-weight:bold; margin-right:10px; color:#000;">
+
+               <a href="/Lifestyle"> <span style="color:black;">Lifestyle</span></a>
+
+            </div>
+
+        
+
+        </div>
+
+
+
+        <div style="clear: both"></div>
+
+    </div>
+
+  
+
+    
+
+					  
+
+				</div>
+
+			</div>
+
+
+
+			<div style="padding-top: 10px; clear: both;" />
+
+		</div>
+
+		
+
+		<div id="FooterContainer">
+
+			<!-- Place footer option html/snippet here -->
+
+			
+
+    
+
+			<!-- START FOOTER -->
+
+			<div class="footer02">
+
+				<div class="nav">
+
+					<ul class="footerNav">
+
+					<li>
+
+					<a href="/Home">Home</a>
+
+					</li>
+
+					<li>
+
+					<a href="/Local">Local</a>
+
+					</li>
+
+
+
+					<li>
+
+					<a href="/World">World</a>
+
+					</li>
+
+					<li>
+
+					<a href="/Business">Business</a>
+
+					</li>
+
+					<li>
+
+					<a href="/Technology">Technology</a>
+
+
+
+					</li>
+
+					<li>
+
+					<a href="/Sports">Sports</a>
+
+					</li>
+
+					<li>
+
+					<a href="/Entertainment">Entertainment</a>
+
+					</li>
+
+					</ul><br />
+
+
+
+                    <div style="padding-top: 5px; clear: both;">
+
+                        <div class="StayConnectFooterText">
+
+                            Stay Connected
+
+                        </div>
+
+                        <div class="StayConnectedFooter">
+
+                            
+
+    <div class="StayConnectContainer" xmlns="">
+
+        <table width="300" border="0" cellspacing="0" cellpadding="0">
+
+          <tr>
+
+            <td width="40" height="22" align="center">
+
+                <a href="http://www.facebook.com/newsmlp" rel="externalnews StayConnectBottom" target="_blank" title="Follow us at Facebook">
+
+                    <img src="/images/social-networking-fb.jpg" width="18" height="18" style="border: 0px" />
+
+                </a>
+
+            </td>
+
+            <td width="260"><div class="stay_connected_fonttypeface"><a href="http://www.facebook.com/newsmlp" rel="externalnews StayConnectBottom" target="_blank">Follow us on Facebook</a></div></td>
+
+          </tr>
+
+          <tr>
+
+            <td height="22" align="center">
+
+                <a href="http://www.twitter.com/newsmlp" target="_blank" rel="externalnews StayConnectBottom" title="Follow us at Twitter @newsmlp">
+
+                    <img src="/images/social-networking-twitter.jpg" rel="externalnews StayConnectBottom" width="18" height="18" style="border: 0px;" />
+
+                </a>
+
+            </td>
+
+            <td><div class="stay_connected_fonttypeface"><a href="http://www.twitter.com/newsmlp" rel="externalnews StayConnectBottom" target="_blank">@newsmlp</a></div></td>
+
+          </tr>
+
+          <tr>
+
+            <td height="22" align="center">
+
+                <a href="/RSS" title="RSS">
+
+                    <img src="/images/social-networking-rss.jpg" width="18" height="18" />
+
+                </a>
+
+            </td>
+
+            <td>
+
+                <div class="stay_connected_fonttypeface">
+
+                    <a href="/~request/Component.DigitalFive.News.View.RssList/Rss?Section=local&amp;host=finance.mylaunchpad.com.my" target="_blank">Malaysia</a> | 
+
+                    <a href="/~request/Component.DigitalFive.News.View.RssList/Rss?Section=world_ap&amp;host=finance.mylaunchpad.com.my" target="_blank">Asia Pasific</a> | 
+
+                    <a href="/~request/Component.DigitalFive.News.View.RssList/Rss?Section=technology&amp;host=finance.mylaunchpad.com.my" target="_blank">Tech</a> | 
+
+                    <a href="/~request/Component.DigitalFive.News.View.RssList/Rss?Section=local_business&amp;host=finance.mylaunchpad.com.my" target="_blank">Biz</a> | 
+
+                    <a href="/RSS">More</a>
+
+                </div>
+
+            </td>
+
+          </tr>
+
+        </table>
+
+    </div>
+
+  
+
+                        </div>
+
+					    <!--<div class="footer_rss_feed">
+
+                            <a href="/RSS"><img src="/images/rss_logo_footer.jpg" width="13" height="13" /> Subscribe to our RSS Feed</a>
+
+                        </div>-->
+
+                    </div>
+
+
+
+				</div>
+
+				<div class="copyright">
+
+					For any enquiries, feedback or advertising information, please email <a href="mailto:enquiries@digitalfive.com">enquiries@digitalfive.com</a>. <br />
+
+					This site is best viewed with Internet Explorer 7.0, Firefox 2.0 and Flash Player 8 and above. <br /><br />
+
+
+
+					All rights reserved. Copyright © 2010 Digital Five Sdn Bhd (488331-D)
+
+				</div>				
+
+			</div>	
+
+			<!-- END FOOTER -->
+
+			
+
+			</div>
+
+	</div>
+
+	
+
+	
+
+ <div style="clear:both" xmlns=""></div>
+
+ <div style="background-color:#e8e8e8;" xmlns="">
+
+  <div id="mlp_mainfooter">
+
+  <div id="mlp_footer"><div class="mlp_footer_container"></div><div class="mlp_footer_container"><div class="mlp_footer_headings">News</div>
+
+    <div class="mlp_footer_sub_headings">
+
+        <a href="http://news.mylaunchpad.com.my/Local" rel="external FooterLinks" target="_blank">Malaysian</a><br />
+
+        <a href="http://news.mylaunchpad.com.my/World" rel="external FooterLinks" target="_blank">World</a><br />
+
+        <a href="http://www.murai.com.my" rel="external FooterLinks" target="_blank">Entertainment</a><br />
+
+        <a href="http://news.mylaunchpad.com.my/Technology" rel="external FooterLinks" target="_blank">Technology</a><br />
+
+        <a href="http://news.mylaunchpad.com.my/Sports" rel="external FooterLinks" target="_blank">Sports</a><br />
+
+        <a href="http://education.mylaunchpad.com.my" rel="external FooterLinks" target="_blank">Education</a><br />
+
+    </div>
+
+    </div><div class="mlp_footer_container">
+
+      <div class="mlp_footer_headings">Entertainment</div>
+
+    <div class="mlp_footer_sub_headings">
+
+        <a href="http://www.murai.com.my/gosip/" rel="external FooterLinks" target="_blank">Malaysian Gossip</a><br />
+
+        <a href="http://www.murai.com.my/stailista/" rel="external FooterLinks" target="_blank">Stailista</a><br />
+
+        <a href="http://www.murai.com.my/wayang/" rel="external FooterLinks" target="_blank">Movies</a><br />
+
+        <a href="http://astrology.mylaunchpad.com.my" rel="external FooterLinks" target="_blank">Horoscope</a><br />
+
+    </div></div><div class="mlp_footer_container">
+
+      <div class="mlp_footer_headings">Online Services</div>
+
+    <div class="mlp_footer_sub_headings">
+
+        <a href="http://www.finder301.com" rel="external FooterLinks" target="_blank">Finder 301</a><br />
+
+        <a href="http://www.musicunlimited.com.my/maxisweb/" rel="external FooterLinks" target="_blank">Music</a><br />
+
+        <a href="http://www.mplanet.com.my/" rel="external FooterLinks" target="_blank">Games</a><br />
+
+    </div></div><div class="mlp_footer_container">
+
+      <div class="mlp_footer_headings">Maxis Services</div>
+
+    <div class="mlp_footer_sub_headings">
+
+        <a href="http://www.maxis.com.my/personal/index.asp" rel="external FooterLinks" target="_blank">Mobile &amp; Plans</a><br />
+
+        <a href="http://www.maxis.com.my/personal/broadband/index.asp" rel="external FooterLinks" target="_blank">Broadband</a><br />
+
+        <a href="http://www.maxis.com.my/business/index.asp" rel="external FooterLinks" target="_blank">Maxis for Business</a><br />
+
+        <a href="http://www.maxis.com.my/moc_new2/index.asp?r=1" rel="external FooterLinks" target="_blank">Maxis Rewards</a><br />
+
+        <a href="http://store.maxis.com.my/" rel="external FooterLinks" target="_blank">Downloads</a><br />
+
+        <a href="http://www.maxis.com.my/personal/online_account_main.asp" rel="external FooterLinks" target="_blank">Customer Service</a><br />
+
+        <a href="http://www.hotlink.com.my/web/portal/hotlink/index" rel="external FooterLinks" target="_blank">Hotlink</a><br />
+
+    </div></div><!--<div class="mlp_footer_container"></div>-->
+
+  <div class="mlp_footer_copyright">Copyright 2010 Maxis 
+
+   | <a href="http://www.maxis.com.my/personal/general/enquiry_main.asp" rel="external FooterLinks" target="_blank"> Contact Us</a>
+
+ | <a href="http://www.maxis.com.my/personal/service/index.asp" rel="external FooterLinks" target="_blank"> Help</a>
+
+ | <a href="http://www.maxis.com.my/personal/general/tnc_main.asp" rel="external FooterLinks" target="_blank"> Terms Of Use</a>
+
+  </div>
+
+  </div></div></div>
+
+       
+
+	
+
+<!-- BEGIN EFFECTIVE MEASURE CODE -->
+
+<!-- COPYRIGHT EFFECTIVE MEASURE -->
+
+ <script type="text/javascript" language="JavaScript" xmlns="">
+
+ //<![CDATA[
+
+ document.write(unescape('%3Cscript%20type%3D%22text/javascript%22%20language%3D%22JavaScript%22%20src%3D%22'));
+
+ document.write((location.protocol.indexOf('https')>-1?'https://my-ssl':'http://my-cdn')
+
+ +unescape('.effectivemeasure.net/em.js%22%3E%3C/script%3E'));
+
+ //]]>
+
+</script>
+
+<noscript xmlns="">
+
+ <img src="//my.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+
+</noscript>
+
+<!--END EFFECTIVE MEASURE CODE -->
+
+
+
+  
+
+</body>
+
+</html>
