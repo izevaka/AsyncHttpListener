@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-namespace AsyncHttpListener
+namespace Sample.FileServer
 {
     /// <summary>
     /// Borrowed and slightly modified from http://stackoverflow.com/a/7161265/129404

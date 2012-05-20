@@ -40,7 +40,6 @@
     <Compile Include="CompletedArgs.cs" />
     <Compile Include="AsynchronousStreamCopy.cs" />
     <Compile Include="IRequestHandler.cs" />
-    <Compile Include="MimeTypeAssistant.cs" />
     <Compile Include="OverlappedStreamCopy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ResponseExtensions.cs" />
